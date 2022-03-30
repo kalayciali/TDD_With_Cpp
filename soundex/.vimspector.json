@@ -1,0 +1,14 @@
+{
+  "configurations": {
+    "Launch": {
+      "adapter": "vscode-cpptools",
+      "configuration": {
+        "request": "launch",
+        "program": "build/soundex_encode",
+        "cwd": "/home/srcfinder/cpp/soundex",
+        "externalConsole": true,
+        "MIMode": "gdb"
+      }
+    }
+  }
+}
