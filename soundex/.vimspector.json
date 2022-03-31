@@ -5,7 +5,7 @@
       "configuration": {
         "request": "launch",
         "program": "build/soundex_encode",
-        "cwd": "/home/srcfinder/cpp/soundex",
+        "cwd": "/home/srcfinder/cpp/cpp_tdd/soundex",
         "externalConsole": true,
         "MIMode": "gdb"
       }

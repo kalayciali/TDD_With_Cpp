@@ -18,7 +18,6 @@ enable_testing()
 add_executable(
     soundex_encode
     soundex_test.cpp
-    string_utils.cpp
 )
 
 target_include_directories(soundex_encode
